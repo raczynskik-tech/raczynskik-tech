@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @raczynskik-tech
 - 👀 I’m interested in programming and 3d-printing.
-- 🌱 I’m currently learning python, C++/C, and front-dev.
+- 🌱 I’m currently learning Python, C++/C, and front-dev.
